@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola! 👋 Soy Víctor Manuel Ordiales García</h1>
-<h3 align="center">Desarrollador Full Stack Mid/Senior</h3>
-<p align="center">
+<h1 align="start">¡Hola! 👋 Soy Víctor Manuel Ordiales García</h1>
+<h3 align="start">Desarrollador Full Stack Mid/Senior</h3>
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=veriel-dev&label=Visitas%20al%20perfil&color=70a5fd&style=flat" alt="veriel-dev" />
 </p>
 
