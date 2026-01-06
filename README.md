@@ -1,5 +1,5 @@
 <h1 align="start">¡Hola! 👋 Soy Víctor Manuel Ordiales García</h1>
-<h3 align="start">Desarrollador Full Stack Mid/Senior</h3>
+<h3 align="start">Desarrollador Mid/Senior</h3>
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=veriel-dev&label=Visitas%20al%20perfil&color=70a5fd&style=flat" alt="veriel-dev" />
 </p>
@@ -9,8 +9,7 @@
 Desarrollador Full-Stack especializado en sistemas CMS (OWCS), Spring Framework y desarrollo JavaScript/TypeScript. Mi enfoque se centra en la implementación de soluciones web eficientes y el desarrollo de aplicaciones escalables. Con background en Física, aporto un pensamiento analítico único al desarrollo de software.
 
 ## 🔭 Actualmente
-
-- 💼 Desarrollador Full Stack/Analista en Viewnext S.A
+- 💼 Desarrollador OWCS en Alvea S.A
 - 🚀 Desarrollo FullStack con JS/TS/Java
 - 📊 Implementación de soluciones web eficientes y escalables
 
