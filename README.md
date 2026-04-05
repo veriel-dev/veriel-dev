@@ -29,48 +29,27 @@ Portfolio minimalista con tipografía outline, tema oscuro y animaciones fluidas
 
 > Repo: [web-minimalista](https://github.com/veriel-dev/web-minimalista)
 
-## 🛠️ Stack Tecnológico
-
-### Lenguajes
+## 🛠️ Lenguajes y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Frontend
-
-<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-### Backend
-
-<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
   <img src="https://img.shields.io/badge/OWCS-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### Bases de Datos
-
-<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### Herramientas
-
-<p align="left">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -78,10 +57,10 @@ Portfolio minimalista con tipografía outline, tema oscuro y animaciones fluidas
 ## 📊 Estadísticas de GitHub
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=veriel-dev&show_icons=true&theme=tokyonight" alt="Estadísticas de veriel-dev" />
+  <img src="./stats/github-stats.svg" alt="Estadísticas de veriel-dev" />
 </p>
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veriel-dev&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="./stats/languages.svg" alt="Lenguajes más usados" />
 </p>
 
 ---

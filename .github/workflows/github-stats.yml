@@ -1,0 +1,42 @@
+name: Generate GitHub Stats
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * *' # Cada día a medianoche
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: stats/github-stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: veriel-dev
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/Madrid
+          config_display: large
+
+      - name: Generate Languages Card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: stats/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: veriel-dev
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          config_timezone: Europe/Madrid
